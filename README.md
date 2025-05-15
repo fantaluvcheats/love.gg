@@ -14,7 +14,23 @@ Love.gg Dll Press L To Enable UI
 
 # InGameUI
 
-![image](https://github.com/user-attachments/assets/957ba117-3364-4765-ab95-44b7e70a6a4d)
+Room: 
+
+![image](https://github.com/user-attachments/assets/089dc069-8583-4d3b-965c-be68d6ab65c9)
+
+
+Visuals:
+
+![image](https://github.com/user-attachments/assets/f736416a-feaa-45f3-8ecd-8284c23bbbd0)
+
+Aimbot:
+
+![image](https://github.com/user-attachments/assets/67b771a4-014b-4aba-ba90-cd281dedd8c8)
+
+Misc:
+
+![image](https://github.com/user-attachments/assets/7f54fcc8-b8b7-4dd3-9402-b0e755f112fe)
+
 
 -----------------------------------------------------------------
 
