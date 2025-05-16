@@ -21,7 +21,8 @@ Room:
 
 Visuals:
 
-![image](https://github.com/user-attachments/assets/f736416a-feaa-45f3-8ecd-8284c23bbbd0)
+![image](https://github.com/user-attachments/assets/8d8797ba-34bc-4681-97d2-fd0476883680)
+
 
 Aimbot:
 
@@ -29,7 +30,8 @@ Aimbot:
 
 Misc:
 
-![image](https://github.com/user-attachments/assets/7f54fcc8-b8b7-4dd3-9402-b0e755f112fe)
+![image](https://github.com/user-attachments/assets/9e2e604d-4a32-4ffc-929f-7f709955fe0d)
+
 
 
 -----------------------------------------------------------------
